@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+My Personal Portfolio
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+
+iPortfolio
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
